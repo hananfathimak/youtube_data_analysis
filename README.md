@@ -23,6 +23,4 @@ Analyze YouTube video performance using views and likes to understand which days
 ## 🧾 Conclusion
 Using Excel and Tableau, we gained insights into how content performs on different days and months, helping to choose the best time to upload videos.
 
-## 🔗 Tableau Public Link
-[View Dashboard](https://public.tableau.com/...) 
 
