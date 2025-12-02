@@ -1,21 +1,21 @@
-# YouTube Data Analysis Project 📊
+# YouTube Data Analysis Project 
 
-## 📌 Objective
+##  Objective
 Analyze YouTube video performance using views and likes to understand which days and months perform better.
 
-## 🧰 Tools Used
+##  Tools Used
 - Microsoft Excel
 - Tableau Public
 
-## 📁 Dataset
+##  Dataset
 - Total videos: 50
 - Fields: Title, Upload Date, Views, Likes, Day of the Week
 
-## 📈 Visualizations
+##  Visualizations
 1. Total Views vs Likes by Day of the Week
 2. Total Views vs Likes by Month
 
-## 🧠 Key Insights
+##  Key Insights
 - [✔️] Thursday had the highest number of views.
 - [✔️] November was the most engaging month.
 - [✔️] Likes is fairly consistent across days
